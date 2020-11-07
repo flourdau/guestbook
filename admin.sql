@@ -1,0 +1,1 @@
+INSERT INTO admin (id, username, roles, password) VALUES ('1', 'admin', '["ROLE_ADMIN"]', '$argon2id$v=19$m=65536,t=4,p=1$nIEC4+pj5+L95FzP1Wv1Fg$7qArQ3CEtsS0l28Dg5IqX/ND7QFsUlSJmqTTYy/T/ZA');
